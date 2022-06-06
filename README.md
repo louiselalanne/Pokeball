@@ -1,4 +1,4 @@
-<h1 align="center"> Pokeball</h1>
+<h1 align="center"> Pokeball 🔴</h1>
 
 <p align="justify">Visual representation of this ball by using the matrix and matplotlib library of python. Expanding the concept of large arrays with multiple data types and visualize mathematical concept of matrices.</p>
 
